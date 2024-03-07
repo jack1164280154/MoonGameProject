@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a2187dbb71e7d84d8bf3fd951844a15, type: 3}
+  m_Name: SleepingBag
+  m_EditorClassIdentifier: 
+  m_Id: 5
+  m_ParentGroup: {fileID: 0}
+  m_BuildableName: SleepingBag
+  m_Icon: {fileID: 21300000, guid: 0f6cff8c3f056df46bfc454f393b6d7f, type: 3}
+  m_Prefab: {fileID: -3093713883369608584, guid: 5cbef7e0d348a0547933573fbe807c72, type: 3}
+  m_Description: "\u6E21\u8FC7\u6F2B\u6F2B\u957F\u591C"

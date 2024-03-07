@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a2187dbb71e7d84d8bf3fd951844a15, type: 3}
+  m_Name: TentGreen
+  m_EditorClassIdentifier: 
+  m_Id: 6
+  m_ParentGroup: {fileID: 0}
+  m_BuildableName: TentGreen
+  m_Icon: {fileID: 21300000, guid: ea99a0e12bf3ef54c8853d601e5e04a1, type: 3}
+  m_Prefab: {fileID: 6296610453437688191, guid: 5e3ad115ca7c72843957a38c22fc601b, type: 3}
+  m_Description: 
